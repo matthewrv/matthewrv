@@ -1,6 +1,6 @@
 ## Hi, I’m Matvey (@matthewrv)
 
-I am currently working as Team Lead and Python developer at PolyKod.
+I am currently working as Python developer at Yandex.
 
 Welcome to my GitHub profile. Here I post some of my personal projects as practice in
 programming. Also there are some projects that I have implemented during my studying
