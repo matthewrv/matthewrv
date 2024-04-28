@@ -1,15 +1,16 @@
 ## Hi, I’m Matvey (@matthewrv)
 
-I am currently working as Python developer at Yandex.
+I am currently working as Software developer at Yandex.
 
-Welcome to my GitHub profile. Here I post some of my personal projects as practice in
-programming. Also there are some projects that I have implemented during my studying
-at University.
+Welcome to my GitHub profile. Here I post some of my personal projects as practice
+programming. Also here I store some projects that I have implemented at University.
 
 ## My interests
 
-I am interested in backend web-development (using Python) and looking forward to start learning JS
-and frontend development to extend my general knowledge of web-development.
+Backend and desktop development using:
+- Python (primarily)
+- Go
+- Rust
 
 ## My portfolio and projects
 
