@@ -21,8 +21,4 @@ Web development using:
 Here are links to some of my projects that I would recommend to look at:
 - TODO
 
-
-<!---
-matthewrv/matthewrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewrv&show_icons=true&hide=stars,contribs&theme=react)](https://github.com/matthewrv)
