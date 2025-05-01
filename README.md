@@ -1,24 +1,36 @@
-## Hi, I’m Matvei (@matthewrv)
+# Привет, я Матвей (@matthewrv) 👋  
 
-I am a Software developer and I specialize in web development.
+**Python-разработчик** с **7+ годами** опыта, включая **2 года в Яндексе**.  
+Я специализируюсь на **бекенд-разработке**, но также увлекаюсь фронтендом (TypeScript, React) и изучаю Go/Rust.
 
-Welcome to my GitHub profile. Here I post some of my personal projects as I practice
-programming. Also here I store some of my University projects.
+Здесь вы найдете мои проекты: от пет-проектов и экспериментов до университетских работ.  
 
-## My interests
+## 🛠️ Технологии и навыки  
 
-Web development using:
-- Python
-- Go
-- JavaScript
+**Основной стек:**
 
-## Tech
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## My portfolio and projects
+**Изучаю и экспериментирую:**
 
-Here are links to some of my projects that I would recommend to look at:
-- TODO
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewrv&show_icons=true&hide=stars,contribs&theme=react)](https://github.com/matthewrv)
+*(И ещё, я использую NixOS btw 😉)*  
+
+## 🚀 Мои проекты  
+
+Вот несколько проектов, на которые стоит обратить внимание:  
+
+🔹 **[react-burger](https://github.com/matthewrv/react-burger) / [burger-api](https://github.com/matthewrv/burger-api)**  
+Полноценное приложение для заказа бургеров (фронт на React + бекенд на FastAPI). **[Демо](https://burger.flexkode.ru)**  
+
+🔹 **[Tick Tock](https://github.com/matthewrv/tick-tock-tracker)**  
+VS Code расширение для трекинга времени работы над проектами.  
+
+🔹 **[python-examples](https://github.com/matthewrv/python-examples)**  
+Подборка наглядных и не всегда очевидных примеров того, как работает Python.
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewrv&show_icons=true&hide=stars,contribs&theme=react)](https://github.com/matthewrv)  
